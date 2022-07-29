@@ -14,4 +14,4 @@ Back End - Next.js
 
 Mobile App - Java/Android Studio
 
-Square SDKs - Web Payments SDK
+Square SDKs - Web Payments SDK, Bookings API
